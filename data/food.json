@@ -4,41 +4,47 @@
         "name": "Sabila Khatun",
         "experience": "3 years",
         "picture": "https://images.hindustantimes.com/img/2021/07/16/original/Kishwar_Chowdhary_1626416395536.jpg",
-        "number": "4"
+        "number": "4",
+        "rating": "4.5"
     },
     {
         "id": "2",
         "name": "Rahim Mia",
         "experience": "4 years",
         "picture": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2021/10/01/1_salauddin.jpg",
-        "number": "23"
+        "number": "23",
+        "rating": "4.5"
     },
     {
         "id": "3",
         "name": "Mitu Jahan",
         "experience": "6 years",
         "picture": "https://images.hindustantimes.com/img/2021/07/16/original/Kishwar_Chowdhary_1626416395536.jpg",
-        "number": "12"
+        "number": "12",
+        "rating": "4.5"
     },
     {
         "id": "4",
         "name": "Bubli Jara",
         "experience": "7 years",
         "picture": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202107/KISHWAR_%281%29.jpg?size=1200:675",
-        "number": "45"
+        "number": "45",
+        "rating": "4.5"
     },
     {
         "id": "5",
         "name": "Sadekur Mia",
         "experience": "2 years",
         "picture": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2021/10/01/1_salauddin.jpg",
-        "number": "9"
+        "number": "9",
+        "rating": "4.5"
     },
     {
         "id": "6",
         "name": "Mim Akter",
         "experience": "9 years",
         "picture": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202107/KISHWAR_%281%29.jpg?size=1200:675",
-        "number": "18"
+        "number": "18",
+        "rating": "4.5"
     }
 ]
